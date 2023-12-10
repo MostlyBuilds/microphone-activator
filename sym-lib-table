@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LSK389B")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LSK389B/LSK389B.kicad_sym")(options "")(descr ""))
+)
