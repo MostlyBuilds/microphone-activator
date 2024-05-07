@@ -24,13 +24,10 @@ For more details regarding the specific parts used, please refer to the YouTube
 series. Each video in the series contains links in the description for parts
 and tools that are relevant to the video.
 
-# YouTube Series
-This project was created as part of a YouTube series that walks through the
-teardown of a real CL-1, and the process of creating the circuit and PCB in
-KiCad.
+# YouTube Video Series
+This project was created as part of a YouTube video series that walks through
+the teardown of a real CL-1, and the process of creating the circuit and a
+custom PCB variant in KiCad.
 
-1. [Cloudlifter CL-1 Teardown | Mic Activator Series Video 1](https://youtu.be/pZgYXbsPOTc)
-2. [Building The Cloudlifter CL-1 Circuit in KiCAD | Mic Activator Series Video 2](https://youtu.be/vaFoJOZLgbI)
-3. [Building a Cloudlifter CL-1 Inspired PCB in KiCAD | Mic Activator Series Video 3](https://youtu.be/NedAXIbssNg)
-4. [Building a Custom Cloudlifter CL-1 | Mic Activator Series Video 4](https://youtu.be/DarHMkqkHHk)
-
+The full project details and links to the videos can be found on the MostlyBuilds
+website: [https://mostlybuilds.com/microphone-activator-series](https://mostlybuilds.com/microphone-activator-series/)
